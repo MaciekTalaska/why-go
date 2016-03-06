@@ -1,0 +1,128 @@
+Why Go(lang)?
+Short introduction
+
+Author: Maciek Talaśka
+
+http://maciektalaska@github.io
+@MaciekTalaska
+
+* Who am I?
+
+* Current state of things (languages):
+- C, C++
+- Haskell, Elixir, Erlang
+- Java, C#, F#, Clojure, Scala
+- Python, Ruby, JavaScript 
+
+* New kids in town
+- Go
+- Rust
+- Nim
+
+* Why Go (1)
+According to github project exploration by Redmonk:
+- in 2010 entered the list, ranked #32
+- in 2014 outside of top 20 github languages
+- in June 2015, ranked 15th
+- (still 15th in Jan 2016)
+- Rust is ranked #46-#48
+
+* Why Go (2)
+- hot technology (used by startups)
+
+* Why Go (3)
+projects:
+- Docker
+- Cockroach
+- Hugo
+- Fabio/Consul
+- Juju
+- NSQ
+
+* Why Go (4)
+- Bitly
+- Heroku
+- DigitalOcean
+- Disqus
+- Dropbox
+- Github
+- Twitch/Tumblr,Twitter
+
+* Why Go (5)
+Companies using Go in Poland
+- hostit.pl
+Couple of companies using Go in Wrocław
+- Go group in Warsaw
+- Go group in Kraków
+
+* Go characteristics
+- compiles to binary
+- no vm/environment required
+- targeting many platforms
+- strongly typed
+- automatic memory management (GC) 
+
+* Golang's aims:
+- utilizing multi-cores
+- massive, high-performance distributed systems
+- high performing microservices
+
+* Go language features:
+
+* Go performance
+(according to benchmarksgame):
+- in pair with Java
+- sometimes close to C++
+- never as good as C :)
+- but... consumes less memory! 
+
+* Go is too simple!
+“There are only two kinds of languages: the ones people complain about and the ones nobody uses” — Bjarne Stroustrup
+
+* Go is -too- simple:
+break        default      func         interface    select
+case         defer        go           map          struct
+chan         else         goto         package      switch
+const        fallthrough  if           range        type
+continue     for          import       return       var
+
+* Go syntax
+- curly braces
+- opinionated formatting (go fmt/gofmt)
+
+
+* Go Tools
+- go get
+- go present
+- go fmt
+- gvm (demo)
+
+* CGo
+.code CGo.go 
+
+* GoDoc
+.code godoc.go
+
+* Go present + play
+.play hello.go
+
+* Important things (setup)
+- $GOROOT
+- $GOPATH
+
+* I need no stinkin' debugger!
+- gdb
+- godebugger
+
+*  Editors
+- VIM + plugins
+- IntelliJ
+- Emacs?
+- SublimeText/Atom
+
+* Where to host your Go code?
+- Nitrous (dev)
+- Heroku 
+- Azue
+- OpenShift
+
