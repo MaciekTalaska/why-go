@@ -106,6 +106,12 @@ continue     for          import       return       var
 * Go present + play
 .play hello.go
 
+* Ruby
+.play hello.rb
+
+* Python
+.play hello.py
+
 * Important things (setup)
 - $GOROOT
 - $GOPATH
