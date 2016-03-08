@@ -112,6 +112,9 @@ continue     for          import       return       var
 * Python
 .play hello.py
 
+* JS
+.play hello.js
+
 * Important things (setup)
 - $GOROOT
 - $GOPATH
