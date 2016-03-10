@@ -9,7 +9,8 @@ To run this presentation on your machine:
 1. Install Go (it could be a good idea to install gvm [Go version manager]:
   - http://maciektalaska.github.io/2015/11/07/Go-gvm-and-fish-shell/
   - http://maciektalaska.github.io/2016/01/17/Go-Kubuntu-fish-shell-gvm-addendum/ )
-2. Install go present - as listed here:
+
+2. Install go present - detailed instruction: http://halyph.com/blog/2015/05/18/golang-presentation-tool
 
 3. run the presentation using invoking `present`
 
