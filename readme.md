@@ -19,3 +19,4 @@ Note:
 =====
 Do *not* use http://localhost:3999 to watch the presentation! If you do so, you will not be able to see the output of the code! Please use http://127.0.0.1:3999 instead.
 
+Official `go present` tool documentation: https://godoc.org/golang.org/x/tools/present
