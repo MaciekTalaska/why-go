@@ -80,11 +80,8 @@ Couple of companies using Go in Wrocław
 “There are only two kinds of languages: the ones people complain about and the ones nobody uses” — Bjarne Stroustrup
 
 * Go is -too- simple:
-break        default      func         interface    select
-case         defer        go           map          struct
-chan         else         goto         package      switch
-const        fallthrough  if           range        type
-continue     for          import       return       var
+all keywords:
+.html keywords.html
 
 * Go syntax
 - curly braces
